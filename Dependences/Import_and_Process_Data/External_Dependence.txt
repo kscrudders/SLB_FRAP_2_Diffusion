@@ -1,0 +1,6 @@
+External Supporting Matlab scripts:
+* bfopen - https://www.openmicroscopy.org/bio-formats/downloads/
+* ND2info - https://www.mathworks.com/matlabcentral/fileexchange/73271-nd2-reader
+
+External files:
+* Shade_20240701.mat

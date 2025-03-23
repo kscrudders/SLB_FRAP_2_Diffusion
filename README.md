@@ -66,6 +66,8 @@ Select and edit ROIs, to isolate cells.
 Export: The script will produce a final figure, containing FRAP recovery curve fit and estimated diffusion coefficient.
 * For step-by-step details, see the comments within the script. And/or walk through example on YouTube: [WIP]
 
+<!-- PROJECT LOGO --> <br /> <div align="center">   <a href="https://github.com/kscrudders/SLB_FRAP_2_Diffusion"> <img src="images/FRAP_2_diffusion_plot.png" alt="Logo" width="438" height="328"> </a> <br /> <div align="left">
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- ROADMAP -->
 
 ## Roadmap
